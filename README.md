@@ -1,4 +1,4 @@
-# My-powerbi-project
+#PowerBI made
 Maji Ndogo Report
 
 This is a Power BI project I did on a hypothetical country called Maji Ndogo, tackling the challenge of access to basic clean water. 
